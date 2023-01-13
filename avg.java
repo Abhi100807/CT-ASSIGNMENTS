@@ -3,7 +3,7 @@ class Math
 {
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
-        System.out.println("Programe to find Sum and Average of Given 5 Numbers :");
+        System.out.println("find Sum and Average of Given 5 Numbers :");
         System.out.println("---------------------------------------------------");
         System.out.println("Enter The First Number :");
         int a=sc.nextInt();
